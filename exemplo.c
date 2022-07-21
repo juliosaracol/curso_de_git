@@ -3,7 +3,7 @@
 
 int main(){
 
-printf("ola mundo\n");
+printf("ola mundo seja bem vindo a SAECOMP e o curso de git\n");
 
 return 0;
 }
